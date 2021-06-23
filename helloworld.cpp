@@ -2,6 +2,7 @@
 
 void main(void)
 {
+    //Print a new line
     printf("Hello world");
 }
 
